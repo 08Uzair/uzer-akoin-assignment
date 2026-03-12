@@ -61,8 +61,8 @@ idr-assignment
 * script.js
 * assets/
 
-  * idr-icon.svg
-  * idr-logo.svg
+  * 1.png
+  * 2.png
 
 ## Responsive Design
 
